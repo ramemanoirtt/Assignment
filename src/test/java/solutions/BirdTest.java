@@ -7,7 +7,7 @@ import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
 
-import com.ramesh.solution.model.Bird;
+import assignment.model.Bird;
 
 public class BirdTest {
 
