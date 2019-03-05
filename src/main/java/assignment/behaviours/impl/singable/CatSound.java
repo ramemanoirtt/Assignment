@@ -1,8 +1,6 @@
 package assignment.behaviours.impl.singable;
 
-import assignment.behaviours.Singable;
-
-public class CatSound implements Singable {
+public class CatSound extends CanSing {
     @Override
     public void sing() {
         System.out.println("Meow");
